@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRV3 Coin Editor", "DRV3 Coin Editor\DRV3 Coin Editor.csproj", "{9C7C04AD-3C24-4BA4-A352-40740A329016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7C04AD-3C24-4BA4-A352-40740A329016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7C04AD-3C24-4BA4-A352-40740A329016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7C04AD-3C24-4BA4-A352-40740A329016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7C04AD-3C24-4BA4-A352-40740A329016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DFD2E0-B69F-411C-83CE-ED21407FC125}
+	EndGlobalSection
+EndGlobal
