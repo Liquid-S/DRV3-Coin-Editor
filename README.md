@@ -8,7 +8,7 @@
 
 # 2 — Usage
 - Open the "DRV3 Coin Editor";
-- Click on "OPEN SAVADATA" and choose the savedata you want to edit;
+- Click on "OPEN SAVADATA" and choose the savedata you want to edit from "<Steam-folder>\userdata\<user-id>\567640\remote\";
 - Change the values you want;
 - Click on "SAVE CHANGES";
 - Profit!
